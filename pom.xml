@@ -8,12 +8,12 @@
         <cucumber.version>7.14.0</cucumber.version>
         <extentreports.cucumber7.adapter.version>1.14.0</extentreports.cucumber7.adapter.version>
         <extentreports.version>5.1.1</extentreports.version>
-        <selenium.version>4.26.0</selenium.version>
+        <selenium.version>4.29.0</selenium.version>
         <testng.version>7.8.0</testng.version>   
         <maven.compiler.plugin.version>3.11.0</maven.compiler.plugin.version>
         <maven.surefire.plugin.version>3.2.1</maven.surefire.plugin.version>
-        <maven.compiler.source.version>17</maven.compiler.source.version>
-        <maven.compiler.target.version>17</maven.compiler.target.version>
+        <maven.compiler.source.version>21</maven.compiler.source.version>
+        <maven.compiler.target.version>21</maven.compiler.target.version>
     </properties>
   
     <dependencies>
